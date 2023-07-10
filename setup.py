@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="NoomSmartKeyboard",
-    version="0.0.1",
+    version="0.0.2",
     url="https://github.com/poommin2543/Noom-Smart-Keyboard",
     author="Noom Poommin",
     author_email="poommin2543@gmail.com",
