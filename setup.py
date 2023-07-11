@@ -3,7 +3,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 setup(
     name="NoomSmartKeyboard",
-    version="0.1.0",
+    version="1.0.0",
     url="https://github.com/poommin2543/Noom-Smart-Keyboard",
     author="Noom Poommin",
     author_email="poommin2543@gmail.com",
@@ -19,6 +19,6 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
-        "Operating System :: Microsoft :: Windows",
+        'Operating System :: Microsoft :: Windows',
     ],
 )

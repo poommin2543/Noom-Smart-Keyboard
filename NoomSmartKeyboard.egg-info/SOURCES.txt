@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+NoomSmartKeyboard/__init__.py
+NoomSmartKeyboard.egg-info/PKG-INFO
+NoomSmartKeyboard.egg-info/SOURCES.txt
+NoomSmartKeyboard.egg-info/dependency_links.txt
+NoomSmartKeyboard.egg-info/requires.txt
+NoomSmartKeyboard.egg-info/top_level.txt
